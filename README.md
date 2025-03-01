@@ -1,0 +1,2 @@
+# Project-Intro-to-Neural-Style-Transfer-using-Deep-Learning-TensorFlow-2-Art-Generation-Project-
+ In this project, you will use TensorFlow  work of Leon A. Gatys, et al on ”A Neural Algorithm of Artistic Style”[1], has first come up with such an approach using a powerful pre-trained VGG19 model trained on the famous ImageNet database images.  Skills you will develop:  TensorFlow 2 Python Programming Numpy Matplotlib
